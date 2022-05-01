@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Template/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Minigame.unity
+    guid: 9d06d34b51e7fb54b81027e01f05311a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1390ee7f901ade143aa7312b5982e6ca, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6de26e2040072b84a989c6a01830c845, type: 2}
